@@ -24,6 +24,8 @@
 
 </div>
 
+# Fork from [zhensherlock/watermark-js-plus](https://github.com/zhensherlock/watermark-js-plus.git)
+
 # Watermark
 
 > This is a *canvas-based* watermark for browser.
@@ -36,7 +38,7 @@ Watermark works with both Vue 2 , Vue 3 And React.
 
 # Translations
 
-* [中文文档](README_zh.md)
+- [中文文档](README_zh.md)
 
 ## Installing
 

@@ -1,7 +1,7 @@
 {
-  "name": "watermark-js-plus",
+  "name": "@goldwind/watermark-js-plus",
   "version": "1.5.1",
-  "description": "watermark for the browser",
+  "description": "watermark for the browser,fork from zhensherlock/watermark-js-plus",
   "scripts": {
     "clean:dist": "rimraf dist",
     "prepare": "husky",
@@ -64,8 +64,8 @@
     "LICENSE",
     "README.md"
   ],
-  "engines": {
-    "node": ">=16.0.0"
+  "publishConfig": {
+    "registry": "https://nexus.goldwind.com/repository/gw-itdev-public-npm/"
   },
   "devDependencies": {
     "@babel/core": "^7.24.7",

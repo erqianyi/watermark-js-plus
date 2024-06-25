@@ -24,6 +24,8 @@
 
 </div>
 
+# Fork from [zhensherlock/watermark-js-plus](https://github.com/zhensherlock/watermark-js-plus.git)
+
 # Watermark
 
 > 这是一个基于 *canvas* 画布的水印库，作用于浏览器中。
